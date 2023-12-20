@@ -1,0 +1,27 @@
+.feature-details {
+  display: flex;
+ 
+  align-items: center;
+}
+
+.feature-details h6,
+.feature-details span {
+  display: inline;
+ 
+  margin: 0;
+}
+
+.card {
+  height: 100%;
+ 
+}
+
+li {
+  list-style-type: none;
+}
+
+h5 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  letter-spacing: 1px;
+  word-spacing: 2px;
+}
